@@ -3,7 +3,9 @@
 
 function obtenerNombre() {
     // Escribe tu código aquí
-}
+    let nombre = "Carlos Eduardo Lara Felix";
+    return = nombre ;
+ }
 
 // No modificar.
 // Exporta la función para que pueda ser utilizada en otros archivos
